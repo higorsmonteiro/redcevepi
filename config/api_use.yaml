@@ -1,0 +1,11 @@
+project:
+    name: TESTE API REDCap
+    date: 2023-02-07
+    owner: Higor S. Monteiro
+    short_description: Início dos testes com o REDCap
+API:
+    token: DDD0674F60631E173B58A0E02D9F2299
+    url: http://172.16.220.94/redcap/redcap_v10.1.2/API/
+permission:
+    import: sim
+    export: sim
